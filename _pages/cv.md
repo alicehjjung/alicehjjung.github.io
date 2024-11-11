@@ -19,17 +19,13 @@ Research experience
 ======
 * Fall 2024: Guest Researcher
   * MTI of RWTH-Aachen University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
 * Summer 2024: Research Intern
   * Korea Institute of Science and Technology Information
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
 Conference Presentation
 ======
-*RAGA Methodology Research using LangChain for RAG-based LLM Per- formance Evaluation. Summer Annual Conference of IEIE, June 2024
+* RAGA Methodology Research using LangChain for RAG-based LLM Per- formance Evaluation. Summer Annual Conference of IEIE, June 2024
 
 Teaching
 ======
@@ -58,21 +54,3 @@ Extracurricular Activities
 * Boostcamp AI Tech 5th
 * Virtual International Partners Program
 * Remote Internship Program
-
-<!--
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-->

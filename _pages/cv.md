@@ -11,42 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Engineering, Kyungpook National University, 2021-Present
 
-Work experience
+* Summer Sessions, UC Berkeley, Summer 2022
+
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
+* Fall 2024: Guest Researcher
+  * MTI of RWTH-Aachen University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* Summer 2024: Research Intern
+  * Korea Institute of Science and Technology Information
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Conference Presentation
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*RAGA Methodology Research using LangChain for RAG-based LLM Per- formance Evaluation. Summer Annual Conference of IEIE, June 2024
 
-Publications
+Teaching
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Python Tutor, Fall 2023, Spring 2024
+  * Teaching Assistant in the coures 'Coding Basics for Natural Sciences'
+
+Honors&Awards
+======
+* 3rd Place, 2024 AI Industry-Academia Collaboration Project (2024)
+* 3rd Place, 3rd AI Idea Competition (2024)
+* Excellence in Performance Scholarship(B)(2023,2024)
+* 4th Place, 2023 KNU Statistics Concert(Data Analysis Competition)(2023) 
+* Scholarship of Excellence in Software Project (2023, 2024)
+* 3rd Place, 2nd KyoWon Group AI Challenge, 3rd Place (2023) 
+* Scholarship for National *University Promotion (2022, 2023, 2024) 
+* Scholarship for University Innovation Support Project (2021,2022,2023)
+
+Projects
+======
+* Pronunciation Practice Web Application for Non-Native Korean Speakers
+* Korean Language Education Web Application
+
+Extracurricular Activities
+======
+* KSA, President
+* Boostcamp AI Tech 5th
+* Virtual International Partners Program
+* Remote Internship Program
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -62,3 +75,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+->

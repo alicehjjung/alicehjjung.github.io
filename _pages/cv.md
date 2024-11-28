@@ -37,6 +37,7 @@ Honors&Awards
 * 3rd Place, 2024 AI Industry-Academia Collaboration Project (2024)
 * 3rd Place, 3rd AI Idea Competition (2024)
 * Excellence in Performance Scholarship(B)(2023,2024)
+* Academic Incentive Scholarship for Activation of Convergence Major Programs (2023)
 * 4th Place, 2023 KNU Statistics Concert(Data Analysis Competition)(2023) 
 * Scholarship of Excellence in Software Project (2023, 2024)
 * 3rd Place, 2nd KyoWon Group AI Challenge, 3rd Place (2023) 
@@ -45,8 +46,8 @@ Honors&Awards
 
 Projects
 ======
-* Pronunciation Practice Web Application for Non-Native Korean Speakers
-* Korean Language Education Web Application
+[Portfolio](https://alicehjjung.github.io/portfolio/)
+[GitHub](https://github.com/alicehjjung)
 
 Extracurricular Activities
 ======
@@ -54,3 +55,18 @@ Extracurricular Activities
 * Boostcamp AI Tech 5th
 * Virtual International Partners Program
 * Remote Internship Program
+
+Language
+======
+* **English**: Fluent
+* **Korean**: Native
+
+Technical Skills
+=====
+* **Operating Systems**: Linux(Ubuntu), Windows
+* **Programming Languages**: Python, C, Matlab, R
+* **Deep Learning Framework**: PyTorch, PyTorch Lightning
+* **Data Analysis**: Pandas, NumPy, Azure Blob Storage
+* **Data Visualization**: Matplotlib, GeoPandas, Plotly, Dash
+* **Machine Learning**: Scikit-learn
+* **Version Control**: Git, GitHub

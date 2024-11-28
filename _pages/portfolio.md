@@ -5,6 +5,8 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+{% include base_path %}
+
 ## 2024
 
 #### [RAGA Methodology Research using LangChain for RAG-based LLM Per-formance Evaluation](https://github.com/alicehjjung/capstone_design2.git)

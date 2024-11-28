@@ -46,7 +46,7 @@ Honors&Awards
 
 Projects
 ======
-[Portfolio](https://alicehjjung.github.io/portfolio/)
+[Portfolio](https://alicehjjung.github.io/portfolio/)   
 [GitHub](https://github.com/alicehjjung)
 
 Extracurricular Activities

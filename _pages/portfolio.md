@@ -15,19 +15,19 @@ author_profile: true
 ## 2023
 
 #### [Song Popularity Prediction](https://github.com/alicehjjung/popularity_prediction)
-A machine learning model that can tell if a song is likely to be popular or not.
+A machine learning model that can tell if a song is likely to be popular or not   
 `Machine Learning`, `Music`, `AI`
 
 ---
 
 #### [Pronunciation Correction Service for Foreigner, AI야어여](https://github.com/alicehjjung/level3_nlp_finalproject-nlp-13)
-A Korean Education App that helps users to learn Korean and correct their pronunciation
+A Korean Education App that helps users to learn Korean and correct their pronunciation   
 `Speech`, `Web Development`, `AI`
 
 ---
 
 #### [Korean Language Education App, AI야어여](https://github.com/alicehjjung/kyowon_ai.git)
-A Korean language education app using generative AI models (DALL-E, Bard, ChatGPT) to generate supplementary learning materials for words and sentences
+A Korean language education app using generative AI models (DALL-E, Bard, ChatGPT) to generate supplementary learning materials for words and sentences   
 `Web Development`, `LLM`, `API`, `AI`
 
 ---
@@ -43,13 +43,13 @@ A Korean language education app using generative AI models (DALL-E, Bard, ChatGP
 ---
 
 #### [Relation Extraction(RE) Project](https://github.com/alicehjjung/level2_klue-nlp-13.git)
-A project identifies semantic relations between entity pairs in a text
+A project identifies semantic relations between entity pairs in a text   
 `NLP`, `Relation Extraction`, `AI`
 
 ---
 
 #### [Semantic Text Similarity(STS) Project](https://github.com/alicehjjung/level1_semantictextsimilarity-nlp-02.git)
-A proejct building an AI model to predict the similarity between two sentences from 0 to 5
+A proejct building an AI model to predict the similarity between two sentences from 0 to 5   
 `NLP`, `STS`, `AI`
 
 ---
@@ -66,13 +66,13 @@ A proejct building an AI model to predict the similarity between two sentences f
 ---
 
 #### [Birthday Card](https://github.com/alicehjjung/BirthdayCard)
-A web application that sends birthday card to friends
+A web application that sends birthday card to friends   
 `Web Development`, `API`
 
 ---
 
 #### [Analyzing Disney+ Dataset](https://github.com/alicehjjung/dataAnalysis.git)
-Analyzing the Disney+ Dataset
+Analyzing the Disney+ Dataset   
 `Data Analysis`
 
 ---

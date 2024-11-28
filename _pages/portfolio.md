@@ -7,8 +7,7 @@ author_profile: true
 
 ## 2024
 
-#### [RAGA Methodology Research using LangChain for RAG-based LLM Per-
-formance Evaluation](https://github.com/alicehjjung/capstone_design2.git)
+#### [RAGA Methodology Research using LangChain for RAG-based LLM Per-formance Evaluation](https://github.com/alicehjjung/capstone_design2.git)
 `NLP`, `Synthetic Data Generation`, `LLM`, `RAG`, `NLP`
 
 ---

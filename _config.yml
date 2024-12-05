@@ -21,7 +21,7 @@ repository               : "alicehjjung/alicehjjung.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.png"
+  avatar           : "profile2.jpg"
   name             : "Alice Jung"
   pronouns         : # example: "she/her"  
   bio              : "Computer Science Undergraduate Student"

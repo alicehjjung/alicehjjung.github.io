@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Engineering, Kyungpook National University, 2021-Present
+* Master of Science in Computer Science, University of California, Los Angeles, 2025-present
+
+* B.S. in Engineering, Kyungpook National University, 2021-2025
 
 * Summer Sessions, UC Berkeley, Summer 2022
 

@@ -24,8 +24,8 @@ author:
   avatar           : "profile2.jpg"
   name             : "Alice Jung"
   pronouns         : # example: "she/her"  
-  bio              : "Computer Science Undergraduate Student"
-  location         : #"Earth"
+  bio              : "Computer Science graduate Student"
+  location         : "CA, USA"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : #"none@example.org" 

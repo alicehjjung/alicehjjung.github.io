@@ -7,10 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+## 2025
+
+#### [Robust Simulation Agents for Review Platforms: A Decoupled Neuro-Symbolic Approach](https://github.com/alicehjjung/CS245_FinalProject.git)
+`NLP`, `LLM`, `User Behavior Simulation Agent`, `LLM Agents`, `AI`
+
+#### [How does incorporating synthetic movie review data influence the performance of a lightweight, scalable FastText-based sentiment classification pipeline for out-of-distribution reviews](https://github.com/alicehjjung/CS260D_FinalProject.git)
+`NLP`, `Synthetic Data Generation`, `SubModularData Selection`, `Text Classification`, `AI`
+
+---
+
 ## 2024
 
 #### [RAGA Methodology Research using LangChain for RAG-based LLM Per-formance Evaluation](https://github.com/alicehjjung/capstone_design2.git)
-`NLP`, `Synthetic Data Generation`, `LLM`, `RAG`, `NLP`
+`NLP`, `Synthetic Data Generation`, `LLM`, `RAG`
 
 ---
 

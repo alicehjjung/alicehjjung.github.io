@@ -34,18 +34,107 @@ A machine learning model that can tell if a song is likely to be popular or not
 
 <!--
 <details>
-  <summary>Other Projects</summary>
-  
-  #### [RAGA Methodology Research using LangChain for RAG-based LLM Per-formance Evaluation](https://github.com/alicehjjung/capstone_design2.git)
-`NLP`, `Synthetic Data Generation`, `LLM`, `RAG`
-  
-  #### [Pronunciation Correction Service for Foreigner, AI야어여](https://github.com/alicehjjung/level3_nlp_finalproject-nlp-13)
-A Korean Education App that helps users to learn Korean and correct their pronunciation   
-`Speech`, `Web Development`, `AI`
+  <summary><strong>Other Projects</strong></summary>
 
-  #### [Korean Language Education App, AI야어여](https://github.com/alicehjjung/kyowon_ai.git)
+<a href="https://github.com/alicehjjung/capstone_design2.git"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        RAGA Methodology Research using LangChain for RAG-based LLM Per-formance Evaluation
+      </a>
+<p>
+    <code>NLP</code>
+    <code>Synthetic Data Generation</code>
+    <code>LLM</code>
+    <code>RAG</code>
+  </p>
+
+<a href="https://github.com/alicehjjung/level3_nlp_finalproject-nlp-13"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Pronunciation Correction Service for Foreigner, AI야어여
+      </a>
+<p>
+A Korean Education App that helps users to learn Korean and correct their pronunciation   
+    <code>Speech</code>
+    <code>Web Development</code>
+    <code>AI</code>
+  </p>
+
+<a href="https://github.com/alicehjjung/kyowon_ai.git"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Korean Language Education App, AI야어여
+      </a>
+<p>
 A Korean language education app using generative AI models (DALL-E, Bard, ChatGPT) to generate supplementary learning materials for words and sentences   
-`Web Development`, `LLM`, `API`, `AI`
+    <code>LLM</code>
+    <code>Web Development</code>
+    <code>API</code>
+    <code>AI</code>
+  </p>
+
+<a href="https://github.com/alicehjjung/MobileAPP_TEAM2.git"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Golden Ours
+      </a>
+<p>
+    <code>Mobile App Programming</code>
+    <code>Kotlin</code>
+    <code>API</code>
+  </p>
+
+<a href="https://github.com/alicehjjung/RI_E5_1/tree/HYOJUNG"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Analyzing Purchase Patterns of the Millenial and Gen Z
+      </a>
+<p>
+    <code>Data Analysis</code>
+</p>
+
+<a href="https://github.com/alicehjjung/BirthdayCard"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Birthday Card
+      </a>
+<p>
+A web application that sends birthday card to friends   
+    <code>Web Development</code>
+    <code>API</code>
+  </p>
+
+<a href="https://github.com/alicehjjung/dataAnalysis.git"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+        Analyzing Disney+ Dataset
+      </a>
+<p>
+    <code>Data Analysis</code>
+  </p>
+
+
+<a href="https://github.com/alicehjjung/OSP_TERM.git"
+         target="_blank"
+         rel="noopener noreferrer"
+         style="text-decoration:none; color:inherit;">
+      How Many People Like This Video?
+      </a>
+<p>   
+    <code>Web Development</code>
+    <code>API</code>
+    <code>AI</code>
+  </p>
+</details>
+
+<!--
 
 #### [Open-Domain Question Answering Project](https://github.com/alicehjjung/level2_nlp_mrc-nlp-13.git)
 `NLP`, `Knowledge Base`, `AI`
@@ -60,25 +149,7 @@ A project identifies semantic relations between entity pairs in a text
 #### [Semantic Text Similarity(STS) Project](https://github.com/alicehjjung/level1_semantictextsimilarity-nlp-02.git)
 A proejct building an AI model to predict the similarity between two sentences from 0 to 5   
 `NLP`, `STS`, `AI`
-
-#### [Golden Ours](https://github.com/alicehjjung/MobileAPP_TEAM2.git)
-`App Programming`, `Kotlin`, `API`
-
-#### [Analyzing Purchase Patterns of the Millenial and Gen Z](https://github.com/alicehjjung/RI_E5_1/tree/HYOJUNG)
-`Data Analysis`
-
-#### [Birthday Card](https://github.com/alicehjjung/BirthdayCard)
-A web application that sends birthday card to friends   
-`Web Development`, `API`
-
-#### [Analyzing Disney+ Dataset](https://github.com/alicehjjung/dataAnalysis.git)
-Analyzing the Disney+ Dataset   
-`Data Analysis`
-
-#### [How Many People Like This Video?](https://github.com/alicehjjung/OSP_TERM.git)
-`Web Development`, `API`, `AI`
   
-</details>
 -->
 
 <!--

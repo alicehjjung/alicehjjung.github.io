@@ -7,13 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-### [Agent Society Challenge: LLM-Based Review Simulation / Robust Simulation Agents for Review Platforms: A Decoupled Neuro-Symbolic Approach](https://github.com/alicehjjung/CS245_FinalProject.git)
+### [Agent Society Challenge: LLM-Based Review Simulation](https://github.com/alicehjjung/CS245_FinalProject.git)
+Robust Simulation Agents for Review Platforms: A Decoupled Neuro-Symbolic Approach   
 LLM-based agent that simulates user ratings and reviews using historical behavior data
 - Designed a hybrid LLM-based agent pipeline using LLM APIs to simulate user ratings and reviews, integrating historical behavioral biases with generated outputs
 
 `NLP`, `LLM`, `User Behavior Simulation Agent`, `LLM Agents`, `API`, `AI`   
   
-### [Data-Centric Text Classification for Robust Sentiment Analysis / How does incorporating synthetic movie review data influence the performance of a lightweight, scalable FastText-based sentiment classification pipeline for out-of-distribution reviews](https://github.com/alicehjjung/CS260D_FinalProject.git)
+### [Data-Centric Text Classification for Robust Sentiment Analysis](https://github.com/alicehjjung/CS260D_FinalProject.git)
+ How does incorporating synthetic movie review data influence the performance of a lightweight, scalable FastText-based sentiment classification pipeline for out-of-distribution reviews   
 Studied the impact of synthetic data and submodular selection on sentiment classification performance 
 - Trained and evaluated FastText models on IMDB and Amazon (OOD) test sets
 - Analyzed robustness and generalization across real vs synthetic data   

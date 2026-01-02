@@ -57,6 +57,7 @@ A machine learning model that can tell if a song is likely to be popular or not
       </a>
 <p>
 A Korean Education App that helps users to learn Korean and correct their pronunciation   
+  
     <code>Speech</code>
     <code>Web Development</code>
     <code>AI</code>
@@ -69,7 +70,8 @@ A Korean Education App that helps users to learn Korean and correct their pronun
         Korean Language Education App, AI야어여
       </a>
 <p>
-A Korean language education app using generative AI models (DALL-E, Bard, ChatGPT) to generate supplementary learning materials for words and sentences   
+A Korean language education app using generative AI models (DALL-E, Bard, ChatGPT) to generate supplementary learning materials for words and sentences
+  
     <code>LLM</code>
     <code>Web Development</code>
     <code>API</code>
@@ -105,7 +107,8 @@ A Korean language education app using generative AI models (DALL-E, Bard, ChatGP
         Birthday Card
       </a>
 <p>
-A web application that sends birthday card to friends   
+A web application that sends birthday card to friends     
+  
     <code>Web Development</code>
     <code>API</code>
   </p>

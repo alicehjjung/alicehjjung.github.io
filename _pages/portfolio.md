@@ -7,53 +7,54 @@ author_profile: true
 
 {% include base_path %}
 
-
-<div style="border:1px solid #ddd; padding:16px; border-radius:8px; margin-bottom:16px;">
-  
 #### [Robust Simulation Agents for Review Platforms: A Decoupled Neuro-Symbolic Approach](https://github.com/alicehjjung/CS245_FinalProject.git)
 `NLP`, `LLM`, `User Behavior Simulation Agent`, `LLM Agents`, `AI`
-LLM-based agent that simulates user ratings and reviews using historical behavior data
-- Designed hybrid LLM agent pipelines combining historical rating bias with LLM-generated outputs
+<div style="border:1px solid #ddd; padding:16px; border-radius:8px; margin-bottom:16px;">
+<p>LLM-based agent that simulates user ratings and reviews using historical behavior data</p>
+<ul>
+  <li>Designed hybrid LLM agent pipelines combining historical rating bias with LLM-generated outputs</li>
+</ul>
 </div>
 
-<div style="border:1px solid #ddd; padding:16px; border-radius:8px; margin-bottom:16px;">
   
 #### [How does incorporating synthetic movie review data influence the performance of a lightweight, scalable FastText-based sentiment classification pipeline for out-of-distribution reviews](https://github.com/alicehjjung/CS260D_FinalProject.git)
 `NLP`, `Synthetic Data Generation`, `SubModularData Selection`, `Text Classification`, `AI`
-Studied the impact of synthetic data and submodular selection on sentiment classification performance
-- Trained and evaluated FastText models on IMDB and Amazon (OOD) test sets  
-- Analyzed robustness and generalization across real vs synthetic data
+<div style="border:1px solid #ddd; padding:16px; border-radius:8px; margin-bottom:16px;">
+<p>Studied the impact of synthetic data and submodular selection on sentiment classification performance</p>
+<ul>
+  <li>Trained and evaluated FastText models on IMDB and Amazon (OOD) test sets</li>
+  <li>Analyzed robustness and generalization across real vs synthetic data</li>
+</ul>
 </div>
 
-<div style="border:1px solid #ddd; padding:16px; border-radius:8px; margin-bottom:16px;">
-  
 #### [Towards Responsible Tool-Use by LLM Agents: A Unified Safety, Privacy, and Interpretability Policy Framework](https://drive.google.com/file/d/1nKMAlX-IHSPdrvuQuXfTbg7W4QHKLbxG/view)
 `NLP`, `LLM`, `AI`, `AI Safety`
-Research project on safety, privacy, and interpretability in tool-using LLM agents
-- Contributed to the design of a two-layer policy architecture with tiered access control, auditing, and incident disclosure
-</div>
-
 <div style="border:1px solid #ddd; padding:16px; border-radius:8px; margin-bottom:16px;">
+<p>Research project on safety, privacy, and interpretability in tool-using LLM agents</p>
+<ul>
+  <li>Contributed to the design of a two-layer policy architecture with tiered access control, auditing, and incident disclosure</li>
+</ul>
+</div>
 
 #### [Song Popularity Prediction](https://github.com/alicehjjung/popularity_prediction)
-A machine learning model that can tell if a song is likely to be popular or not   
 `Machine Learning`, `Music`, `AI`
-- Trained and compared Logistic Regression, SVM, Decision Tree, and Random Forest models on a song popularity dataset
+<div style="border:1px solid #ddd; padding:16px; border-radius:8px; margin-bottom:16px;">
+<p>A machine learning model that can tell if a song is likely to be popular or not</p>
+<ul>
+  <li>Trained and compared Logistic Regression, SVM, Decision Tree, and Random Forest models on a song popularity dataset</li>
+</ul>
 </div>
 
-
-
-
-
+<!--
 <details>
-  <summary><strong>Other Projects</strong></summary>
+  <summary>Other Projects</summary>
   
   #### [RAGA Methodology Research using LangChain for RAG-based LLM Per-formance Evaluation](https://github.com/alicehjjung/capstone_design2.git)
-    `NLP`, `Synthetic Data Generation`, `LLM`, `RAG`
+`NLP`, `Synthetic Data Generation`, `LLM`, `RAG`
   
   #### [Pronunciation Correction Service for Foreigner, AI야어여](https://github.com/alicehjjung/level3_nlp_finalproject-nlp-13)
-    A Korean Education App that helps users to learn Korean and correct their pronunciation   
-  `Speech`, `Web Development`, `AI`
+A Korean Education App that helps users to learn Korean and correct their pronunciation   
+`Speech`, `Web Development`, `AI`
 
   #### [Korean Language Education App, AI야어여](https://github.com/alicehjjung/kyowon_ai.git)
 A Korean language education app using generative AI models (DALL-E, Bard, ChatGPT) to generate supplementary learning materials for words and sentences   
@@ -91,7 +92,7 @@ Analyzing the Disney+ Dataset
 `Web Development`, `API`, `AI`
   
 </details>
-
+-->
 
 <!--
 {% include base_path %}

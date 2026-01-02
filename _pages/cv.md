@@ -66,8 +66,9 @@ Language
 
 Technical Skills
 =====
-* **Operating Systems**: Linux(Ubuntu), Windows
-* **Programming Languages**: Python, C, Matlab, R, LaTeX
+<!-- * **Operating Systems**: Linux(Ubuntu), Windows-->
+* **Programming Languages**: Python
+<!-- C, Matlab, R, LaTeX-->
 * **Deep Learning Framework**: PyTorch, PyTorch Lightning
 * **Data Analysis**: Pandas, NumPy, Azure Blob Storage
 * **Data Visualization**: Matplotlib, GeoPandas, Plotly, Dash

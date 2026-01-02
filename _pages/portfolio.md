@@ -33,6 +33,8 @@ A machine learning model that can tell if a song is likely to be popular or not
 `Machine Learning`, `Music`, `AI`   
 
 
+--
+
 <details>
   <summary><strong>Other Projects</strong></summary>
 

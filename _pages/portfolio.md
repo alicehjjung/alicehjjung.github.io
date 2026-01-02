@@ -9,7 +9,6 @@ author_profile: true
 
 ### [Robust Simulation Agents for Review Platforms: A Decoupled Neuro-Symbolic Approach](https://github.com/alicehjjung/CS245_FinalProject.git)
 LLM-based agent that simulates user ratings and reviews using historical behavior data
-- Designed hybrid LLM agent pipelines combining historical rating bias with LLM-generated outputs
 - Designed a hybrid LLM-based agent pipeline using LLM APIs to simulate user ratings and reviews, integrating historical behavioral biases with generated outputs
 
 `NLP`, `LLM`, `User Behavior Simulation Agent`, `LLM Agents`, `API`, `AI`   

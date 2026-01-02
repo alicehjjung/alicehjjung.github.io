@@ -8,25 +8,25 @@ author_profile: true
 {% include base_path %}
 
 #### [Robust Simulation Agents for Review Platforms: A Decoupled Neuro-Symbolic Approach](https://github.com/alicehjjung/CS245_FinalProject.git)
-`NLP`, `LLM`, `User Behavior Simulation Agent`, `LLM Agents`, `AI`   
-LLM-based agent that simulates user ratings and reviews using historical behavior data   
+LLM-based agent that simulates user ratings and reviews using historical behavior data
 - Designed hybrid LLM agent pipelines combining historical rating bias with LLM-generated outputs
+`NLP`, `LLM`, `User Behavior Simulation Agent`, `LLM Agents`, `AI`   
   
 #### [How does incorporating synthetic movie review data influence the performance of a lightweight, scalable FastText-based sentiment classification pipeline for out-of-distribution reviews](https://github.com/alicehjjung/CS260D_FinalProject.git)
-`NLP`, `Synthetic Data Generation`, `SubModularData Selection`, `Text Classification`, `AI`   
-Studied the impact of synthetic data and submodular selection on sentiment classification performance    
+Studied the impact of synthetic data and submodular selection on sentiment classification performance 
 - Trained and evaluated FastText models on IMDB and Amazon (OOD) test sets
 - Analyzed robustness and generalization across real vs synthetic data
+`NLP`, `Synthetic Data Generation`, `SubModularData Selection`, `Text Classification`, `AI`   
 
 #### [Towards Responsible Tool-Use by LLM Agents: A Unified Safety, Privacy, and Interpretability Policy Framework](https://drive.google.com/file/d/1nKMAlX-IHSPdrvuQuXfTbg7W4QHKLbxG/view)
-`NLP`, `LLM`, `AI`, `AI Safety`   
-Research project on safety, privacy, and interpretability in tool-using LLM agents   
+Research project on safety, privacy, and interpretability in tool-using LLM agents 
 - Contributed to the design of a two-layer policy architecture with tiered access control, auditing, and incident disclosure
+`NLP`, `LLM`, `AI`, `AI Safety`   
 
 #### [Song Popularity Prediction](https://github.com/alicehjjung/popularity_prediction)
-`Machine Learning`, `Music`, `AI`   
-A machine learning model that can tell if a song is likely to be popular or not    
+A machine learning model that can tell if a song is likely to be popular or not 
 - rained and compared Logistic Regression, SVM, Decision Tree, and Random Forest models on a song popularity dataset
+`Machine Learning`, `Music`, `AI`   
 
 <!--
 <details>
